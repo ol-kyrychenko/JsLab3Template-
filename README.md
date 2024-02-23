@@ -2,7 +2,7 @@
 
 ## Initial Machine Setup
 
-1. **Install NodeJS 18**
+1. **Install NodeJS 20**
 
 ## Get Started
 
